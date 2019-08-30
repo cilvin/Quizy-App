@@ -1,0 +1,30 @@
+[
+  {
+    "label": "What is a closeout set?",
+    "choices": [
+      {"value": "When the beach is closed", "correct": false},
+      {"value": "When a wave breaks suddenly and all at once", "correct": true},
+      {"value": "When sharks patrol the at dawn", "correct": false},
+      {"value": "A set of small waves", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Duck Diving?",
+    "choices": [
+      {"value": "When you pose for a picture while surfing", "correct": false},
+      {"value": "When ducks go swimming in the ocean", "correct": false},
+      {"value": "Diving under a breaking wave, ducking your body and the surfboard under a breaking wave", "correct": true},
+      {"value": "Using your board as buoy to go spearfishing", "correct": false}
+    ]
+  },
+  {
+    "label": "What is a Floater?",
+    "choices": [
+      {"value": "A 360 surf move", "correct": false},
+      {"value": "A surf move where the surfer rides the top of the wave, then drops back into the main part of the wave", "correct": true},
+      {"value": "When you lose your board", "correct": false},
+      {"value": "When you get held underneath a wave for too long", "correct": false}
+    ]
+  }
+
+]
